@@ -28,17 +28,11 @@ yusufeker-study-tracker-app.netlify.app
 
 Bu proje:
 
-Modern frontend mimarisini uygulamak
-
-Component bazlı geliştirme pratiği yapmak
-
-React ile CRUD işlemlerini gerçekleştirmek
-
-Kimlik doğrulama mantığını simüle etmek
-
-Gerçek bir deploy sürecini deneyimlemek
-
-amacıyla geliştirilmiştir.
+- Modern frontend mimarisini uygulamak
+- Component bazlı geliştirme pratiği yapmak
+- React ile CRUD işlemlerini gerçekleştirmek
+- Kimlik doğrulama mantığını simüle etmek
+- Gerçek bir deploy sürecini deneyimlemek amacıyla geliştirilmiştir.
 
 
 
