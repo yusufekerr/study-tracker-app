@@ -22,7 +22,7 @@ Bu proje, modern JavaScript framework kullanımı, component mimarisi, state yö
 
 
 ## 🌍 Yayınlama
-yusufeker-study-tracker-app.netlify.app
+Live Demo: yusufeker-study-tracker-app.netlify.app
 
 ## 🎯 Proje Amacı
 
@@ -67,7 +67,7 @@ npm install
 npm run dev
 
 ## 🌍 Deployment
-yusufeker-study-tracker-app.netlify.app
+Live Demo: yusufeker-study-tracker-app.netlify.app
 
 ## 🎯 Project Purpose
 This project was developed to:
