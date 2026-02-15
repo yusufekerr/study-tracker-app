@@ -22,7 +22,7 @@ Bu proje, modern JavaScript framework kullanımı, component mimarisi, state yö
 
 
 ## 🌍 Yayınlama
-Live Demo: yusufeker-study-tracker-app.netlify.app
+[Canlı Demo](https://yusufeker-study-tracker-app.netlify.app/)
 
 ## 🎯 Proje Amacı
 
@@ -33,8 +33,6 @@ Bu proje:
 - React ile CRUD işlemlerini gerçekleştirmek
 - Kimlik doğrulama mantığını simüle etmek
 - Gerçek bir deploy sürecini deneyimlemek amacıyla geliştirilmiştir.
-
-
 
 ## 🇬🇧 About the Project
 
@@ -67,7 +65,7 @@ npm install
 npm run dev
 
 ## 🌍 Deployment
-Live Demo: yusufeker-study-tracker-app.netlify.app
+[Live Demo](https://yusufeker-study-tracker-app.netlify.app/)
 
 ## 🎯 Project Purpose
 This project was developed to:
